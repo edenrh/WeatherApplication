@@ -1,0 +1,278 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Uni\Year 3\CI360 - Mobile Application Development\WeatherApplication\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from D:\Uni\Year 3\CI360 - Mobile Application Development\WeatherApplication\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from D:\Uni\Year 3\CI360 - Mobile Application Development\WeatherApplication\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from D:\Uni\Year 3\CI360 - Mobile Application Development\WeatherApplication\app\src\main\AndroidManifest.xml:2:1-25:12
+MERGED from [com.karumi:dexter:5.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\dexter-5.0.0.aar\67ce0175e63afd30523d8d17bcdfc72a\AndroidManifest.xml:17:1-32:12
+MERGED from [com.github.mancj:MaterialSearchBar:0.8.2] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\MaterialSearchBar-0.8.2.aar\2cb0321efb19643014e018e5027a809b\AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\27c1e2a18d4adf012a2cdb7c3eb128d2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\6d2e8f85d7d40bfd89fe31081cd9d979\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\9802768651273bb0e687afa4559ec04a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\119c8ab2f1df1274693a025a667bb10c\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-location:11.8.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\play-services-location-11.8.0.aar\be919c6a29ce121c44114f26cef46ad6\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\ec020aa76ee83c99c9d54da55dc97f81\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\fd6d7957d2e2890c71b32ba1bccbf075\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\26f7945409f1b8a93f402dd17a220251\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\1830c6ee490051c0d3995b90e537ea17\AndroidManifest.xml:17:1-22:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.1.aar\e308c23801561b940971b740e55d8a1c\AndroidManifest.xml:15:1-21:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\736d8642deecec9c029c8e6e7f9a3047\AndroidManifest.xml:2:1-14:12
+MERGED from [com.label305:asynctask:1.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\asynctask-1.0.0.aar\921027ffb716cdc859e6d5d5b85f6b65\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\7343859b654d701faf2dc3b3780ba245\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\20588ccf0ce89ac3c09607db7753b2bd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\ee59b6630f6cdc4f2960d64b87c67e96\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\cae49a7e38d5fe966508646c3c5d7db7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\ac0740132d3137809878761c3d91c706\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\afd0b2e8b5b7a42697a6f9d3da532ecc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\439e57a2b816a2eeeb53df2f74b53365\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\a84adabe0e5e64b2453615bf61e1ad8f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\31b0a3a43808cfdc2d1d76bef26c3b23\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\1125fff844dc95a915e8f938ebdfe494\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\8eadaafb53ad58acacbb75a29f90013f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\ad84ea7fc9042c45c0d73a9e2a5f6042\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\dac2ce390459f25a0b9e0bc609b745a9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\7ff610177bac53bdbbc57c25c0d8585b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\58bffa8b4e9300178274ade1c6aa8bf5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\a0928c98ad14d44e7308f33f46a41e49\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\e1511d498ef81f0d930ae52956e96bad\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\31f519adcafd4374b054d48f1502c090\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\185afd7142a07c47f5f235148f6d31c4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.0.aar\55a9e7a2b9646758e43b81ca89bb9b77\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\b1ca0be00c0127240807fa994ee283f8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\a29bc195b432db3d336881396d4b058d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\9b1e772da604da2535bba7ef7cf28a23\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\7f84d1c70235fed51558e83f84fc359f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\15c71a7f24450435ca5f88667576857f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\60bebf8a564974053fb46ad3e24f8e03\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\47a9c992c25f731118d862066348154c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\c53714d28c6b500b8b048d05f1be2f89\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\537750f000aa6688a912edbe11ce74c5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.8.0.aar\812b8a2590dfbc1984ca02a9ba71e5e3\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\93af111c7d2321b5f9ec7792f72560f6\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\1f238d7df19078e0472cc9d0485dda42\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\fbf76fa02127a8ca2e46aca6a0e475e6\AndroidManifest.xml:2:1-6:12
+INJECTED from D:\Uni\Year 3\CI360 - Mobile Application Development\WeatherApplication\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from D:\Uni\Year 3\CI360 - Mobile Application Development\WeatherApplication\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from D:\Uni\Year 3\CI360 - Mobile Application Development\WeatherApplication\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from D:\Uni\Year 3\CI360 - Mobile Application Development\WeatherApplication\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from D:\Uni\Year 3\CI360 - Mobile Application Development\WeatherApplication\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Uni\Year 3\CI360 - Mobile Application Development\WeatherApplication\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Uni\Year 3\CI360 - Mobile Application Development\WeatherApplication\app\src\main\AndroidManifest.xml
+		ADDED from D:\Uni\Year 3\CI360 - Mobile Application Development\WeatherApplication\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from D:\Uni\Year 3\CI360 - Mobile Application Development\WeatherApplication\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Uni\Year 3\CI360 - Mobile Application Development\WeatherApplication\app\src\main\AndroidManifest.xml
+		ADDED from D:\Uni\Year 3\CI360 - Mobile Application Development\WeatherApplication\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from D:\Uni\Year 3\CI360 - Mobile Application Development\WeatherApplication\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Uni\Year 3\CI360 - Mobile Application Development\WeatherApplication\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\Uni\Year 3\CI360 - Mobile Application Development\WeatherApplication\app\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from D:\Uni\Year 3\CI360 - Mobile Application Development\WeatherApplication\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\Uni\Year 3\CI360 - Mobile Application Development\WeatherApplication\app\src\main\AndroidManifest.xml:6:5-78
+	android:name
+		ADDED from D:\Uni\Year 3\CI360 - Mobile Application Development\WeatherApplication\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\Uni\Year 3\CI360 - Mobile Application Development\WeatherApplication\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from D:\Uni\Year 3\CI360 - Mobile Application Development\WeatherApplication\app\src\main\AndroidManifest.xml:7:22-78
+application
+ADDED from D:\Uni\Year 3\CI360 - Mobile Application Development\WeatherApplication\app\src\main\AndroidManifest.xml:9:5-23:19
+MERGED from [com.karumi:dexter:5.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\dexter-5.0.0.aar\67ce0175e63afd30523d8d17bcdfc72a\AndroidManifest.xml:26:5-30:19
+MERGED from [com.karumi:dexter:5.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\dexter-5.0.0.aar\67ce0175e63afd30523d8d17bcdfc72a\AndroidManifest.xml:26:5-30:19
+MERGED from [com.github.mancj:MaterialSearchBar:0.8.2] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\MaterialSearchBar-0.8.2.aar\2cb0321efb19643014e018e5027a809b\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.mancj:MaterialSearchBar:0.8.2] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\MaterialSearchBar-0.8.2.aar\2cb0321efb19643014e018e5027a809b\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\119c8ab2f1df1274693a025a667bb10c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\119c8ab2f1df1274693a025a667bb10c\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-location:11.8.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\play-services-location-11.8.0.aar\be919c6a29ce121c44114f26cef46ad6\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:11.8.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\play-services-location-11.8.0.aar\be919c6a29ce121c44114f26cef46ad6\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\ec020aa76ee83c99c9d54da55dc97f81\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\ec020aa76ee83c99c9d54da55dc97f81\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\fd6d7957d2e2890c71b32ba1bccbf075\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\fd6d7957d2e2890c71b32ba1bccbf075\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\26f7945409f1b8a93f402dd17a220251\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\26f7945409f1b8a93f402dd17a220251\AndroidManifest.xml:22:5-26:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\736d8642deecec9c029c8e6e7f9a3047\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\736d8642deecec9c029c8e6e7f9a3047\AndroidManifest.xml:7:5-12:19
+MERGED from [com.label305:asynctask:1.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\asynctask-1.0.0.aar\921027ffb716cdc859e6d5d5b85f6b65\AndroidManifest.xml:9:5-47
+MERGED from [com.label305:asynctask:1.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\asynctask-1.0.0.aar\921027ffb716cdc859e6d5d5b85f6b65\AndroidManifest.xml:9:5-47
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\e1511d498ef81f0d930ae52956e96bad\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\e1511d498ef81f0d930ae52956e96bad\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\31f519adcafd4374b054d48f1502c090\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\31f519adcafd4374b054d48f1502c090\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.8.0.aar\812b8a2590dfbc1984ca02a9ba71e5e3\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.8.0.aar\812b8a2590dfbc1984ca02a9ba71e5e3\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\93af111c7d2321b5f9ec7792f72560f6\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\93af111c7d2321b5f9ec7792f72560f6\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\1f238d7df19078e0472cc9d0485dda42\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\1f238d7df19078e0472cc9d0485dda42\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\fbf76fa02127a8ca2e46aca6a0e475e6\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\fbf76fa02127a8ca2e46aca6a0e475e6\AndroidManifest.xml:5:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\e1511d498ef81f0d930ae52956e96bad\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from D:\Uni\Year 3\CI360 - Mobile Application Development\WeatherApplication\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from D:\Uni\Year 3\CI360 - Mobile Application Development\WeatherApplication\app\src\main\AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from D:\Uni\Year 3\CI360 - Mobile Application Development\WeatherApplication\app\src\main\AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from D:\Uni\Year 3\CI360 - Mobile Application Development\WeatherApplication\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from D:\Uni\Year 3\CI360 - Mobile Application Development\WeatherApplication\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from D:\Uni\Year 3\CI360 - Mobile Application Development\WeatherApplication\app\src\main\AndroidManifest.xml:15:9-39
+activity#com.example.weatherapplication.MainActivity
+ADDED from D:\Uni\Year 3\CI360 - Mobile Application Development\WeatherApplication\app\src\main\AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from D:\Uni\Year 3\CI360 - Mobile Application Development\WeatherApplication\app\src\main\AndroidManifest.xml:16:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Uni\Year 3\CI360 - Mobile Application Development\WeatherApplication\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from D:\Uni\Year 3\CI360 - Mobile Application Development\WeatherApplication\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from D:\Uni\Year 3\CI360 - Mobile Application Development\WeatherApplication\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Uni\Year 3\CI360 - Mobile Application Development\WeatherApplication\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from D:\Uni\Year 3\CI360 - Mobile Application Development\WeatherApplication\app\src\main\AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from D:\Uni\Year 3\CI360 - Mobile Application Development\WeatherApplication\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Uni\Year 3\CI360 - Mobile Application Development\WeatherApplication\app\src\main\AndroidManifest.xml
+INJECTED from D:\Uni\Year 3\CI360 - Mobile Application Development\WeatherApplication\app\src\main\AndroidManifest.xml
+MERGED from [com.karumi:dexter:5.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\dexter-5.0.0.aar\67ce0175e63afd30523d8d17bcdfc72a\AndroidManifest.xml:22:5-24:41
+MERGED from [com.karumi:dexter:5.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\dexter-5.0.0.aar\67ce0175e63afd30523d8d17bcdfc72a\AndroidManifest.xml:22:5-24:41
+MERGED from [com.github.mancj:MaterialSearchBar:0.8.2] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\MaterialSearchBar-0.8.2.aar\2cb0321efb19643014e018e5027a809b\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.mancj:MaterialSearchBar:0.8.2] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\MaterialSearchBar-0.8.2.aar\2cb0321efb19643014e018e5027a809b\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.1.1] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\27c1e2a18d4adf012a2cdb7c3eb128d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\27c1e2a18d4adf012a2cdb7c3eb128d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\6d2e8f85d7d40bfd89fe31081cd9d979\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\6d2e8f85d7d40bfd89fe31081cd9d979\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\9802768651273bb0e687afa4559ec04a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\9802768651273bb0e687afa4559ec04a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\119c8ab2f1df1274693a025a667bb10c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\119c8ab2f1df1274693a025a667bb10c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-location:11.8.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\play-services-location-11.8.0.aar\be919c6a29ce121c44114f26cef46ad6\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:11.8.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\play-services-location-11.8.0.aar\be919c6a29ce121c44114f26cef46ad6\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\ec020aa76ee83c99c9d54da55dc97f81\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\ec020aa76ee83c99c9d54da55dc97f81\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\fd6d7957d2e2890c71b32ba1bccbf075\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\fd6d7957d2e2890c71b32ba1bccbf075\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\26f7945409f1b8a93f402dd17a220251\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\26f7945409f1b8a93f402dd17a220251\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\1830c6ee490051c0d3995b90e537ea17\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\1830c6ee490051c0d3995b90e537ea17\AndroidManifest.xml:20:5-44
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.1.aar\e308c23801561b940971b740e55d8a1c\AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.1.aar\e308c23801561b940971b740e55d8a1c\AndroidManifest.xml:19:5-43
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\736d8642deecec9c029c8e6e7f9a3047\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\736d8642deecec9c029c8e6e7f9a3047\AndroidManifest.xml:5:5-44
+MERGED from [com.label305:asynctask:1.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\asynctask-1.0.0.aar\921027ffb716cdc859e6d5d5b85f6b65\AndroidManifest.xml:5:5-7:41
+MERGED from [com.label305:asynctask:1.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\asynctask-1.0.0.aar\921027ffb716cdc859e6d5d5b85f6b65\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\7343859b654d701faf2dc3b3780ba245\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\7343859b654d701faf2dc3b3780ba245\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\20588ccf0ce89ac3c09607db7753b2bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\20588ccf0ce89ac3c09607db7753b2bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\ee59b6630f6cdc4f2960d64b87c67e96\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\ee59b6630f6cdc4f2960d64b87c67e96\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\cae49a7e38d5fe966508646c3c5d7db7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\cae49a7e38d5fe966508646c3c5d7db7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\ac0740132d3137809878761c3d91c706\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\ac0740132d3137809878761c3d91c706\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\afd0b2e8b5b7a42697a6f9d3da532ecc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\afd0b2e8b5b7a42697a6f9d3da532ecc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\439e57a2b816a2eeeb53df2f74b53365\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\439e57a2b816a2eeeb53df2f74b53365\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\a84adabe0e5e64b2453615bf61e1ad8f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\a84adabe0e5e64b2453615bf61e1ad8f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\31b0a3a43808cfdc2d1d76bef26c3b23\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\31b0a3a43808cfdc2d1d76bef26c3b23\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\1125fff844dc95a915e8f938ebdfe494\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\1125fff844dc95a915e8f938ebdfe494\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\8eadaafb53ad58acacbb75a29f90013f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\8eadaafb53ad58acacbb75a29f90013f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\ad84ea7fc9042c45c0d73a9e2a5f6042\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\ad84ea7fc9042c45c0d73a9e2a5f6042\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\dac2ce390459f25a0b9e0bc609b745a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\dac2ce390459f25a0b9e0bc609b745a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\7ff610177bac53bdbbc57c25c0d8585b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\7ff610177bac53bdbbc57c25c0d8585b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\58bffa8b4e9300178274ade1c6aa8bf5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\58bffa8b4e9300178274ade1c6aa8bf5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\a0928c98ad14d44e7308f33f46a41e49\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\a0928c98ad14d44e7308f33f46a41e49\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\e1511d498ef81f0d930ae52956e96bad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\e1511d498ef81f0d930ae52956e96bad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\31f519adcafd4374b054d48f1502c090\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\31f519adcafd4374b054d48f1502c090\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\185afd7142a07c47f5f235148f6d31c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\185afd7142a07c47f5f235148f6d31c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.0.aar\55a9e7a2b9646758e43b81ca89bb9b77\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.0.aar\55a9e7a2b9646758e43b81ca89bb9b77\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\b1ca0be00c0127240807fa994ee283f8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\b1ca0be00c0127240807fa994ee283f8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\a29bc195b432db3d336881396d4b058d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\a29bc195b432db3d336881396d4b058d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\9b1e772da604da2535bba7ef7cf28a23\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\9b1e772da604da2535bba7ef7cf28a23\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\7f84d1c70235fed51558e83f84fc359f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\7f84d1c70235fed51558e83f84fc359f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\15c71a7f24450435ca5f88667576857f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\15c71a7f24450435ca5f88667576857f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\60bebf8a564974053fb46ad3e24f8e03\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\60bebf8a564974053fb46ad3e24f8e03\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\47a9c992c25f731118d862066348154c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\47a9c992c25f731118d862066348154c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\c53714d28c6b500b8b048d05f1be2f89\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\c53714d28c6b500b8b048d05f1be2f89\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\537750f000aa6688a912edbe11ce74c5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\537750f000aa6688a912edbe11ce74c5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.8.0.aar\812b8a2590dfbc1984ca02a9ba71e5e3\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.8.0.aar\812b8a2590dfbc1984ca02a9ba71e5e3\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\93af111c7d2321b5f9ec7792f72560f6\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\93af111c7d2321b5f9ec7792f72560f6\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\1f238d7df19078e0472cc9d0485dda42\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\1f238d7df19078e0472cc9d0485dda42\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\fbf76fa02127a8ca2e46aca6a0e475e6\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\fbf76fa02127a8ca2e46aca6a0e475e6\AndroidManifest.xml:4:5-43
+INJECTED from D:\Uni\Year 3\CI360 - Mobile Application Development\WeatherApplication\app\src\main\AndroidManifest.xml
+INJECTED from D:\Uni\Year 3\CI360 - Mobile Application Development\WeatherApplication\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Uni\Year 3\CI360 - Mobile Application Development\WeatherApplication\app\src\main\AndroidManifest.xml
+		ADDED from D:\Uni\Year 3\CI360 - Mobile Application Development\WeatherApplication\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Uni\Year 3\CI360 - Mobile Application Development\WeatherApplication\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Uni\Year 3\CI360 - Mobile Application Development\WeatherApplication\app\src\main\AndroidManifest.xml
+		ADDED from D:\Uni\Year 3\CI360 - Mobile Application Development\WeatherApplication\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Uni\Year 3\CI360 - Mobile Application Development\WeatherApplication\app\src\main\AndroidManifest.xml
+activity#com.karumi.dexter.DexterActivity
+ADDED from [com.karumi:dexter:5.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\dexter-5.0.0.aar\67ce0175e63afd30523d8d17bcdfc72a\AndroidManifest.xml:27:9-29:72
+	android:theme
+		ADDED from [com.karumi:dexter:5.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\dexter-5.0.0.aar\67ce0175e63afd30523d8d17bcdfc72a\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.karumi:dexter:5.0.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\dexter-5.0.0.aar\67ce0175e63afd30523d8d17bcdfc72a\AndroidManifest.xml:28:13-60
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\ec020aa76ee83c99c9d54da55dc97f81\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\ec020aa76ee83c99c9d54da55dc97f81\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\ec020aa76ee83c99c9d54da55dc97f81\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\ec020aa76ee83c99c9d54da55dc97f81\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\26f7945409f1b8a93f402dd17a220251\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\26f7945409f1b8a93f402dd17a220251\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\26f7945409f1b8a93f402dd17a220251\AndroidManifest.xml:24:13-58
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\736d8642deecec9c029c8e6e7f9a3047\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\736d8642deecec9c029c8e6e7f9a3047\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\736d8642deecec9c029c8e6e7f9a3047\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Eden\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\736d8642deecec9c029c8e6e7f9a3047\AndroidManifest.xml:9:13-64
